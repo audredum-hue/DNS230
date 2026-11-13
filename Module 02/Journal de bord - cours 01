@@ -1,1 +1,4 @@
+Voici mon journal de bord du 15 octobre pour le premier cours du Module 2 en prototypage !
+
+Dans ce début de nouveau module, on a reçu un nouveau circuit électronique qui est le ESP32, un petit ordinateur qui traite l’information. On a essayé de faire de la communication sérielle entre nos circuits, mais mon ordi est un macbook M1 donc on a eu des difficultés. On a trouvé une version de Arduino qui finalement a marché grâce à des étudiants ! Nous avons aussi essayé un peu les branchements et ce que chacun fait, même si c’est encore vague dans ma tête. C’était aussi intéressant de voir c’est quoi le design critique et spéculatif dans un côté plus créatif avec les exemples qu’on a analysé  ! Maintenant, on doit commencer à trouver à des idées intéressantes pour nos projets finaux et à former des équipes 
 
